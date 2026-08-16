@@ -1,18 +1,8 @@
 <div align="center">
 
-
-
 ## BCA Master: The Unified Learning Platform for Computer Applications
 
-```
-██████╗  ██████╗ █████╗     ███╗   ███╗ █████╗ ███████╗████████╗███████╗██████╗ 
-██╔══██╗██╔════╝██╔══██╗    ████╗ ████║██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗
-██████╔╝██║     ███████║    ██╔████╔██║███████║███████╗   ██║   █████╗  ██████╔╝
-██╔══██╗██║     ██╔══██║    ██║╚██╔╝██║██╔══██║╚════██║   ██║   ██╔══╝  ██╔══██╗
-██████╔╝╚██████╗██║  ██║    ██║ ╚═╝ ██║██║  ██║███████║   ██║   ███████╗██║  ██║
-╚═════╝  ╚═════╝╚═╝  ╚═╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-```
-
+<img src="https://github.com/Technologies-Satyam/BCA-Master/blob/53555ae3752381b2e98334860849220cc154c660/assets/image.png" width="300px" align="center" /><br/>
 
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/)
 [![Framework](https://img.shields.io/badge/Runtime-React%20Native%20%7C%20Expo-000000?style=flat-square&logo=expo&logoColor=white)](https://expo.dev/)
@@ -22,8 +12,8 @@
 [![Monetization](https://img.shields.io/badge/AdMob-Google%20Mobile%20Ads-4285F4?style=flat-square&logo=google&logoColor=white)](https://admob.google.com/)
 
 ---
+### *Master Your BCA Journey.*
 
-### *Master Your BCA Journey.*[cite: 1]
 
 *A resilient, production-ready mobile platform engineered to unify university coursework, progressive document rendering, and modern software development roadmaps.*
 ---
