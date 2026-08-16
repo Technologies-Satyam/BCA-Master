@@ -4,7 +4,7 @@
 
 ## BCA Master: The Unified Learning Platform for Computer Applications
 
-```BCA MASTER
+```
 ██████╗  ██████╗ █████╗     ███╗   ███╗ █████╗ ███████╗████████╗███████╗██████╗ 
 ██╔══██╗██╔════╝██╔══██╗    ████╗ ████║██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗
 ██████╔╝██║     ███████║    ██╔████╔██║███████║███████╗   ██║   █████╗  ██████╔╝
@@ -33,6 +33,7 @@
 ## 1. System Context & Overview
 
 BCA Master addresses educational resource fragmentation by providing a structured, offline-capable mobile workspace for Bachelor of Computer Applications students. The platform unifies semester textbooks, academic notes, core computer science subjects, and developer career guidance into a single runtime environment.
+
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────┐
