@@ -201,7 +201,7 @@ export interface RoadmapResource extends BaseResource {
 
 * **Zero-Barrier Learning Model:** Access to notes, books, and roadmaps requires no user account creation.
 * **Monetization Infrastructure:** Uses Google Mobile Ads (`react-native-google-mobile-ads`) to sustain maintenance and hosting costs.
-* **Privacy Compliance:** Diagnostic and advertising data processing adheres to standard policies[cite: 1]. Full policy available at: [BCA Master Privacy Policy](https://raw.githubusercontent.com/satyam-umrao/data-API/main/Privacy-policy.md).
+* **Privacy Compliance:** Diagnostic and advertising data processing adheres to standard policies[cite: 1]. Full policy available at: [BCA Master Privacy Policy](https://technologies-satyam.github.io/BCA-Master/privacy-policy.html).
 
 ---
 
